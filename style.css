@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  box-sizing: border-box;
+}
+.title-text {
+  background-color: antiquewhite;
+  font-size: 2.5rem;
+  color: #333;
+  text-align: center;
+  margin-top: 2rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.description-text {
+  font-size: 1.2rem;
+  color: #555;
+  text-align: center;
+  margin: 1rem auto;
+  width: 80%;
+}
+.steps-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 2rem auto;
+  width: 80%;
+  text-align: center ;
+} 
